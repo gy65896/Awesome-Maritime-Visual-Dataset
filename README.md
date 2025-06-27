@@ -2,7 +2,11 @@
 
 ## Object Detection
 
-
+### [McShips] Mcships: A large-scale ship dataset for detection and fine-grained categorization in the wild
+- Publication: International Conference on Multimedia and Expo
+- Paper: https://ieeexplore.ieee.org/abstract/document/9102907
+- Data: https://github.com/ZhengYitong2333/Mcships
+- Year: 2020
 
 ### [TinyPerson] Scale match for tiny person detection
 - Publication: Winter Conference on Applications of Computer Vision
