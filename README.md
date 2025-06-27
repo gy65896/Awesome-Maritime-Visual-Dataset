@@ -2,17 +2,19 @@
 
 ## Object Detection
 
-### [SMD] Video processing from electro-optical sensors for object detection and tracking in a maritime environment: A survey
-- Publication:  IEEE Transactions on Intelligent Transportation Systems
-- Paper: https://ieeexplore.ieee.org/abstract/document/7812788
-- Data: https://sites.google.com/site/dilipprasad/home/singapore-maritime-dataset
-- Year: 2019
+
 
 ### [TinyPerson] Scale match for tiny person detection
 - Publication: Winter Conference on Applications of Computer Vision
 - Paper: https://openaccess.thecvf.com/content_WACV_2020/html/Yu_Scale_Match_for_Tiny_Person_Detection_WACV_2020_paper.html
 - Data: https://github.com/ucas-vg/PointTinyBenchmark
 - Year: 2020
+
+### [SMD] Video processing from electro-optical sensors for object detection and tracking in a maritime environment: A survey
+- Publication:  IEEE Transactions on Intelligent Transportation Systems
+- Paper: https://ieeexplore.ieee.org/abstract/document/7812788
+- Data: https://sites.google.com/site/dilipprasad/home/singapore-maritime-dataset
+- Year: 2019
 
 ### [SeaShips] Seaships: A large-scale precisely annotated dataset for ship detection
 - Publication: IEEE Transactions on Multimedia
