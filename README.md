@@ -54,6 +54,12 @@
 - Data: https://github.com/Ben93kie/SeaDronesSee
 - Year: 2022
 
+### [AFO] An ensemble deep learning method with optimized weights for drone-based water rescue and surveillance
+- Publication: Integrated Computer-Aided Engineering
+- Paper: https://journals.sagepub.com/doi/10.3233/ICA-210649
+- Data: https://www.kaggle.com/datasets/jangsienicajzkowy/afo-aerial-dataset-of-floating-objects/data?select=PART_2
+- Year: 2021
+
 ### [Victims on Ocean] Airsim: Search and rescue SAR at sea with UAV integrated artificial intelligence
 - Publication: International Conference on Communications and Electronics
 - Paper: https://ieeexplore.ieee.org/abstract/document/9352109
