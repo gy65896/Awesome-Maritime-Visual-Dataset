@@ -1,7 +1,5 @@
  # <p align=center> Awesome Maritime Visual Dataset</p>
 
-## List
-
 ## Object Detection
 
 ### [SMD] Video processing from electro-optical sensors for object detection and tracking in a maritime environment: A survey
