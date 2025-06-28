@@ -26,6 +26,8 @@
 - Data: https://github.com/jiaming-wang/SeaShips
 - Year: 2018
 
+
+
 ## Data Fusion
 
 ### [FVessel] Asynchronous trajectory matching-based multimodal maritime data fusion for vessel traffic surveillance in inland waterways
@@ -33,6 +35,32 @@
 - Paper: https://ieeexplore.ieee.org/abstract/document/10159572
 - Data: https://github.com/gy65896/FVessel
 - Year: 2023
+
+## Remote Sensing
+
+### [SSDD] SAR ship detection dataset (SSDD): Official release and comprehensive data analysis
+- Publication: Remote Sensing
+- Paper: https://www.mdpi.com/2072-4292/13/18/3690
+- Data: https://github.com/TianwenZhang0825/Official-SSDD
+- Year: 2021
+
+### [SRSDD] SRSDD-v1. 0: A high-resolution SAR rotation ship detection dataset
+- Publication: Remote Sensing
+- Paper: https://www.mdpi.com/2072-4292/13/24/5104
+- Data: https://github.com/HeuristicLU/SRSDD-V1.0
+- Year: 2021
+
+### [HRSID] HRSID: A high-resolution SAR images dataset for ship detection and instance segmentation
+- Publication: IEEE Access
+- Paper: https://github.com/chaozhong2010/HRSID
+- Data: https://www.kaggle.com/datasets/guofeng/hrsc2016
+- Year: 2020
+
+### [HRSC2016] Mssdet: Multi-scale ship-detection framework in optical remote-sensing images and new benchmark
+- Publication: Remote Sensing
+- Paper: https://www.mdpi.com/2072-4292/14/21/5460
+- Data: https://www.kaggle.com/datasets/guofeng/hrsc2016
+- Year: 2016
 
 ## Search and Rescue
 
