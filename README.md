@@ -2,6 +2,12 @@
 
 ## Object Detection
 
+### [USVTrack] USVTrack: USV-based 4D radar-camera tracking dataset for autonomous driving in inland waterways
+- Publication: IEEE/RSJ International Conference on Intelligent Robots and Systems
+- Paper: https://arxiv.org/abs/2506.18737
+- Data: https://github.com/USVTrack/USVTrack?tab=readme-ov-file
+- Year: 2025
+
 ### [McShips] Mcships: A large-scale ship dataset for detection and fine-grained categorization in the wild
 - Publication: International Conference on Multimedia and Expo
 - Paper: https://ieeexplore.ieee.org/abstract/document/9102907
